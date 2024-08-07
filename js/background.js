@@ -75,5 +75,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Call the function to change the background color with an optional custom time for testing
     changeBackgroundColor(); // Use this to see the actual time-based background
-    changeBackgroundColor(new Date('2023-07-25T05:30:00')); // Uncomment and set the time to test different times
+    //changeBackgroundColor(new Date('2023-07-25T05:30:00')); // Uncomment and set the time to test different times
 });
