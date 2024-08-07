@@ -1,0 +1,18 @@
+{
+    "artworks": [
+        {
+            "title": "Apple of my Eye",
+            "date": "2023",
+            "location": "Cement Fondu, Sydney AU",
+            "image": "appleHand.png",
+            "description": "A detailed depiction of an apple in hand."
+        },
+        {
+            "title": "Poppies",
+            "date": "2022",
+            "location": "Kudos Gallery, Sydney AU",
+            "image": "poppyScene.gif",
+            "description": "A beautiful scene of poppies in bloom."
+        }
+    ]
+}
