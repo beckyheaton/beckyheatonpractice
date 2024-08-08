@@ -34,6 +34,12 @@ main {
     padding: 20px;
 }
 
+#artwork-list h2 {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #555;
+}
+
 #artwork-list a {
     display: block;
     padding: 10px 0;
